@@ -1,6 +1,6 @@
 # tcker-theme README
 
-## Working with Markdown
+## COMBINED WITH One Dark Pro Syntax Color & Pitch Dark Background Color
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
