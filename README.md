@@ -1,6 +1,16 @@
 # tcker-theme README
 
-## COMBINED WITH One Dark Pro Syntax Color & Pitch Dark Background Color
+## COMBINED WITH One Dark Pro Syntax Color & Pitch Dark Background Color ✨
+
+### DESCRIPTION
+
+* I build this only for my eyes and my eyes only hahahhah
+
+### FONTS USED:
+
+- Jettbrains Mono (Disabled font ligature)
+
+---
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
