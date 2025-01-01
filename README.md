@@ -22,6 +22,36 @@
 
 - https://youtu.be/pGzssFNtWXw?si=uhYiZ2t6c-4sInY4
 
+<div align="center">
+
+### Initial Demonstrations:
+
+##### React jsx
+
+![react](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/react.png)
+
+#### CSS
+
+![css](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/css.png)
+
+#### HTML
+
+![html](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/html.png)
+
+#### Javascript
+
+![js](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/javascript.png)
+
+#### Php
+
+![php](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/php.png)
+
+#### SQL/Database
+
+![sql](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/sql.png)
+
+</div>
+
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
