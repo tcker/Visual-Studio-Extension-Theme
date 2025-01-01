@@ -1,0 +1,21 @@
+{
+  "name": "tcker-theme",
+  "displayName": "Tcker Theme",
+  "description": "Build it for myself",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tcker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tcker Theme-color-theme.json"
+      }
+    ]
+  }
+}
