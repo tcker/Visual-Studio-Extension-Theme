@@ -12,6 +12,12 @@
 
 ---
 
+# TESTING 
+
+- To test this go to the upper right and find the **"run"** button
+- And click **"Start Debugging"**
+- A separate vscode window will appear (this forms as the displayed ui)
+
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
