@@ -4,6 +4,11 @@
   "description": "COMBINED WITH One Dark Pro Syntax Color & Jakko Black Color Theme - also built it for eyes",
   "version": "0.0.1",
   "homepage": "https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/README.md",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcker/Visual-Studio-Extension-Theme"
+},
   "engines": {
     "vscode": "^1.96.0"
   },
