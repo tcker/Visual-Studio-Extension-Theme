@@ -10,6 +10,13 @@
     "type": "git",
     "url": "https://github.com/tcker/Visual-Studio-Extension-Theme"
 },
+"keywords": [
+  "Black",
+  "Oled",
+  "Tokyo",
+  "Tokyo Night",
+  "Tcker"
+],
   "engines": {
     "vscode": "^1.96.0"
   },
