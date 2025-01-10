@@ -15,10 +15,6 @@
 
 ---
 
-### My Tutorial Sensei:
-
-- https://youtu.be/pGzssFNtWXw?si=uhYiZ2t6c-4sInY4
-
 <div align="center">
 
 ### Initial Demonstrations:
