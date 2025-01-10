@@ -1,4 +1,4 @@
-# tcker-themes!
+# tcker-theme!
 
 ## COMBINED WITH One Dark Pro Syntax Color & Jakko Black Color Theme ✨
 
