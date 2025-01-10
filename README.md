@@ -1,6 +1,6 @@
 # tcker-theme!
 
-## COMBINED WITH One Dark Pro Syntax Color & Jakko Black Color Theme ✨
+## COMBINED WITH Tokyo Night Syntax Color & Jakko Black Color Theme ✨
 
 
 ### Credits:
