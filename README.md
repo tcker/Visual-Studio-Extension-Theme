@@ -21,11 +21,11 @@
 
 ##### Initial Look 1: Php Language
 
-![react](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/initialLook.png)
+![](InitialLook1.png)
 
 #### Initial Look 2:
 
-![css](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/IntialLook2.png)
+![](InitialLook2.png)
 
 </div>
 
