@@ -2,11 +2,10 @@
 
 ## COMBINED WITH One Dark Pro Syntax Color & Jakko Black Color Theme ✨
 
----
 
-#### Credits:
-https://github.com/tokyo-night/tokyo-night-vscode-theme
-https://github.com/Jaakkko/vscode-black-theme/blob/master/themes
+### Credits:
+- https://github.com/tokyo-night/tokyo-night-vscode-theme 
+- https://github.com/Jaakkko/vscode-black-theme/blob/master/themes
 
 
 ### DESCRIPTION
