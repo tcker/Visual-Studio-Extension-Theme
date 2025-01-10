@@ -1,22 +1,20 @@
-# tcker-theme README
+# tcker-themes!
 
-## COMBINED WITH One Dark Pro Syntax Color & Pitch Dark Background Color ✨
+## COMBINED WITH One Dark Pro Syntax Color & Jakko Black Color Theme ✨
+
+---
+
+#### Credits:
+https://github.com/tokyo-night/tokyo-night-vscode-theme
+https://github.com/Jaakkko/vscode-black-theme/blob/master/themes
+
 
 ### DESCRIPTION
 
 * I build this only for my eyes and my eyes only hahahhah
-
-### FONTS USED:
-
-- Jettbrains Mono (Disabled font ligature)
+* I only copy the specific lines of codes to make this theme from their themes.json files
 
 ---
-
-# TESTING 
-
-- To test this go to the upper right and find the **"run"** button
-- And click **"Start Debugging"**
-- A separate vscode window will appear (this forms as the displayed ui)
 
 ### My Tutorial Sensei:
 
@@ -26,41 +24,15 @@
 
 ### Initial Demonstrations:
 
-##### React jsx
+##### Initial Look 1: Php Language
 
-![react](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/react.png)
+![react](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/initialLook.png)
 
-#### CSS
+#### Initial Look 2:
 
-![css](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/css.png)
-
-#### HTML
-
-![html](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/html.png)
-
-#### Javascript
-
-![js](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/javascript.png)
-
-#### Php
-
-![php](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/php.png)
-
-#### SQL/Database
-
-![sql](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/sql.png)
+![css](https://github.com/tcker/Visual-Studio-Extension-Theme/blob/master/assets/IntialLook2.png)
 
 </div>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
