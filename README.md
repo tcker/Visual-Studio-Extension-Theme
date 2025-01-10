@@ -5,7 +5,7 @@
 
 ### Credits:
 - https://github.com/tokyo-night/tokyo-night-vscode-theme 
-- https://github.com/Jaakkko/vscode-black-theme/blob/master/themes
+- https://github.com/Jaakkko/vscode-black-theme
 
 
 ### DESCRIPTION
