@@ -2,7 +2,7 @@
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://marketplace.visualstudio.com/items?itemName=Tcker.tcker-theme)
 
-## COMBINED WITH Tokyo Night Syntax Color & Jakko Black Color Theme ✨
+## COMBINED WITH Tokyo Night Syntax Color & Jaakkko Black Color Theme ✨
 
 ### Credits:
 - https://github.com/tokyo-night/tokyo-night-vscode-theme 
