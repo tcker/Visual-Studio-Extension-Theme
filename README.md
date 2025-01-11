@@ -1,3 +1,5 @@
+# NOT APPROVE BY AUTHOR YET | AWAITING RESPONSE FROM EMAIL
+
 # [Tcker theme](https://marketplace.visualstudio.com/items?itemName=Tcker.tcker-theme)
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://marketplace.visualstudio.com/items?itemName=Tcker.tcker-theme)
