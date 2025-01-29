@@ -7,3 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [Updates]
+
+- January 29, 2025 | Updated foreground list, makes font-color white
+- Update Readme Section for better Instructions

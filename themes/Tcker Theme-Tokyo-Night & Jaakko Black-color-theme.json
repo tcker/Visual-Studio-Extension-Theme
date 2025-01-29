@@ -1242,6 +1242,9 @@
 	  // | https://github.com/Jaakko
 
 	  "colors": {
+        // "list.foreground": "#FFFFFF",
+        // "sideBar.foreground": "#FFFFFF",
+
         "focusBorder": "#00000000",
         "foreground": "#BFD4E1",
         "widget.shadow": "#00000000",
@@ -1322,7 +1325,8 @@
         "activityBar.activeBackground": "#000",
         "activityBar.activeFocusBorder": "#222",
         "sideBar.background": "#000",
-        "sideBar.foreground": "#BFD4E1",
+        // "sideBar.foreground": "#BFD4E1",
+        "sideBar.foreground": "#FFFFFF",
         "sideBar.border": "#00000000",
         "sideBar.dropBackground": "#0353a480",
         "sideBarTitle.foreground": "#BFD4E1",
