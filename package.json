@@ -26,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tcker Theme-Tokyo-Night & Jaakko Black-color-theme",
+        "label": "Tcker Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tcker Theme-Tokyo-Night & Jaakko Black-color-theme.json"
+        "path": "./themes/Tcker Theme.json"
       }
     ]
   }
